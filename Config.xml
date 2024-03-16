@@ -1,0 +1,5 @@
+<dependencyConfig>
+    <bean name="serviceA" clazz="com.example.services.ServiceA" />
+    <bean name="serviceB" clazz="com.example.services.ServiceB" />
+
+</dependencyConfig>
